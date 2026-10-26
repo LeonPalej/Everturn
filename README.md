@@ -29,9 +29,12 @@
 <h2>ASSETS</h2>
 <p>All assets were custom-made by me in Aseprite, inspired by Pac-Man and Duck Debugging.</p>
 <img src="Pictures/settings.png" alt="img">
+<p>This image also shows the settings, which work as follows: simply click the button next to the skin you want to use to select it. You can choose from 5 skins for the player and 2 skins for the coin.</p>
+<p>The cells on top of the assets are the color customization cells. Simply change the color and click the button next to them to apply it.</p>
 <h2>BUILDING PROCESS</h2>
 <p>I initially started designing the game in Figma. However, due to a lack of necessary features, I moved the development to Excel VBA.</p>
 <p>I used AI tools to study VBA, but 90% of the code was written by me. Because of this, the game runs a bit sluggishly, but I am proud of it since I took the time to actually learn the language and build this project from scratch.</p>
 
 <h2>OTHER</h2>
+<p>I plan to update this at least once to add the proper settings, more assets, and hopefully a shop.</p>
 <p>I hope you have fun playing the game! :)</p>
